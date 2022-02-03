@@ -1,9 +1,20 @@
 {
   "name": "@codebundlesbyvik/number-operations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper functions for number operations.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vikputthiscodeongit/js-number-operations"
+  },
+  "keywords": [
+    "helpers",
+    "numbers",
+    "integer",
+    "generate",
+    "random"
+  ],
   "author": "codebundlesbyvik",
-  "license": "ISC",
-  "homepage": "https://github.com/vikputthiscodeongit/number-operations/"
+  "license": "MIT",
+  "bugs": "https://github.com/vikputthiscodeongit/js-number-operations/issues"
 }
