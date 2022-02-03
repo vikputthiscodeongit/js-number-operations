@@ -1,0 +1,9 @@
+{
+  "name": "@codebundlesbyvik/number-operations",
+  "version": "1.0.0",
+  "description": "Helper functions for number operations.",
+  "main": "index.js",
+  "author": "codebundlesbyvik",
+  "license": "ISC",
+  "homepage": "https://github.com/vikputthiscodeongit/number-operations/"
+}
